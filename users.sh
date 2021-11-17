@@ -1,5 +1,7 @@
-LIST OF USERS
-ALIDA
-NATHAN
-IVANA
-ABAYOMI
+List of new barclays users
+simon
+jack
+moni
+andrew
+sarah
+john
